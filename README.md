@@ -31,6 +31,7 @@
  
  
  #返回结果需要设置header
+ 
         header("Access-Control-Allow-Origin:*");
         header("Access-Control-Allow-Headers: X-Token,X-Cid,X-Auth");
 
